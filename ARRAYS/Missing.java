@@ -7,6 +7,6 @@ public class Missing {
             System.out.println("The Missing Number is: "+(arr[i]+1));
             break;
             }
-           }
+          }
         }
-    }
+      }
