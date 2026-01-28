@@ -10,8 +10,8 @@ class Array{
             
            }
         }
-    }
-}
+     }
+  }
 
 // class Array{
 //     public static void Modifyarray(int []arr){
