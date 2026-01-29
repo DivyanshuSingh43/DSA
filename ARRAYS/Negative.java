@@ -10,7 +10,7 @@ System.out.println("Enter array elements:");
 for (int i = 0; i < n; i++) {
 arr[i] = sc.nextInt();
 }
-
+ 
 System.out.println("Negative numbers in the array:");
 for (int i = 0; i < n; i++) {
 if(arr[i] < 0)
