@@ -5,7 +5,7 @@ class Rotated {
         int n = arr.length;
 
         d %= n;
-        
+          
         int[] temp = new int[n];
 
         for (int i = 0; i < n - d; i++)
