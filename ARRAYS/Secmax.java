@@ -5,7 +5,7 @@ class Secmax {
         int n = arr.length;
 
         int largest = -1, secondLargest = -1;
-
+ 
         // Finding the largest element
         for (int i = 0; i < n; i++) {
             if (arr[i] > largest)
