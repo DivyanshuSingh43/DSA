@@ -8,7 +8,7 @@ class Array{
         else{
             System.out.println(arr[i]*2);
 
-           }
+           } 
         }
      }
   }
