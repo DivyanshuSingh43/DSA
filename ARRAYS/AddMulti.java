@@ -10,7 +10,7 @@ class Array{
 
            } 
         }
-     }
+     } 
   }
 
 // class Array{
