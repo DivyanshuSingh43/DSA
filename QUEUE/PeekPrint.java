@@ -9,7 +9,7 @@ class PeekPrint {
             q.add(q.remove());
         }
     }
-
+ 
     public static void main(String[] args) {
         Queue<Integer> q = new LinkedList<>();
         q.add(10);
