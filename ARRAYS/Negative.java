@@ -15,7 +15,7 @@ System.out.println("Negative numbers in the array:");
 for (int i = 0; i < n; i++) {
 if(arr[i] < 0)
 System.err.print(arr[i] + " ");
-
+ 
     }
   }
 }
