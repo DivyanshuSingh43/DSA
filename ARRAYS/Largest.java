@@ -7,7 +7,7 @@ public class Largest {
             if (arr[i] > largest) {
                 largest = arr[i];
             }
-        }
+        } 
 
         System.out.println("The largest number in the array is: " + largest);
     }
