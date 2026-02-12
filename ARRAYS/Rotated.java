@@ -1,4 +1,4 @@
-
+ 
 class Rotated {
     
     static void rotateArr(int[] arr, int d) {
