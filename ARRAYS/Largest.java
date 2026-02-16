@@ -6,7 +6,7 @@ public class Largest {
         for (int i = 1; i < arr.length; i++) {
             if (arr[i] > largest) {
                 largest = arr[i];
-            }
+            } 
         }  
 
         System.out.println("The largest number in the array is: " + largest);
