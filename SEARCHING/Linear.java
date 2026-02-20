@@ -5,7 +5,7 @@ class Linear {
                 if(num[i]==key){
                     return i;
                 }   
-            }
+            } 
                    return -1;
                    }
     public static void main(String[] args) {
