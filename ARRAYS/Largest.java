@@ -5,7 +5,7 @@ public class Largest {
 
         for (int i = 1; i < arr.length; i++) {
             if (arr[i] > largest) { 
-                largest = arr[i];
+                largest = arr[i]; 
             }  
         }  
 
