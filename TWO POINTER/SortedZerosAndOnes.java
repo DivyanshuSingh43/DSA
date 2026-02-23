@@ -8,7 +8,7 @@ public class SortedZerosAndOnes {
         arr[right] = temp;
     } 
  
-    // Two Pointer Method
+    // Two Pointer Method 
     public static void pointer(int arr[]) {
         int left = 0;
         int right = arr.length - 1;
