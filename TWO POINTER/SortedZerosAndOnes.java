@@ -6,7 +6,7 @@ public class SortedZerosAndOnes {
         int temp = arr[left];
         arr[left] = arr[right];
         arr[right] = temp;
-    }
+    } 
 
     // Two Pointer Method
     public static void pointer(int arr[]) {
