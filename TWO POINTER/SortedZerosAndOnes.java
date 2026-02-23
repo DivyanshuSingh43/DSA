@@ -2,7 +2,7 @@
 public class SortedZerosAndOnes {
 
     // Function to swap two elements
-    public static void swap(int arr[], int left, int right) {
+    public static void swap(int arr[], int left, int right) { 
         int temp = arr[left];
         arr[left] = arr[right];
         arr[right] = temp;
