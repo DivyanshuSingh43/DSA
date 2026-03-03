@@ -1,7 +1,7 @@
 import java.util.*;
 
 class ADDATINDEX {
-    public static void addIndex(Queue<Integer> q, int idx, int data) {
+    public static void addIndex(Queue<Integer> q, int idx, int data) { 
         int n = q.size();
 
         // Step 1: rotate first idx elements
