@@ -8,7 +8,7 @@ class ADDATINDEX {
         for (int i = 0; i < idx; i++) {
             q.add(q.remove());
         }
-
+ 
         // Step 2: add new element
         q.add(data);
 
