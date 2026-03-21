@@ -1,7 +1,7 @@
 import java.util.*;
 
 class PeekPrint {
-    public static void addIndex(Queue<Integer> q) {
+    public static void addIndex(Queue<Integer> q) { 
         int n = q.size();
 
         // Step 1: rotate first idx elements
