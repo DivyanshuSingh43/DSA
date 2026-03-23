@@ -3,7 +3,7 @@ import java.util.*;
 class ADDATINDEX {
     public static void addIndex(Queue<Integer> q, int idx, int data) { 
         int n = q.size();
-
+ 
         // Step 1: rotate first idx elements
         for (int i = 0; i < idx; i++) {
             q.add(q.remove());
