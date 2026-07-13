@@ -5,7 +5,7 @@ class Array{
         if(i%2==0){
             System.out.println(arr[i]+10);
         }
-        else{
+        else{ 
             System.out.println(arr[i]*2);
  
            } 
