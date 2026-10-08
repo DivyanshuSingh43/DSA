@@ -5,7 +5,7 @@ public class Reverse{
         Stack<Integer> s = new Stack<>();
 
         // Step 1: Push all elements into stack
-        while (!q.isEmpty()) {
+        while (!q.isEmpty()) { 
             s.push(q.remove());
         }
 
