@@ -1,6 +1,6 @@
 import java.util.*;
 
-class RemoveAtIndex {
+class RemoveAtIndex { 
     public static void remIndex(Queue<Integer> q, int idx) {
         int n = q.size();
 
