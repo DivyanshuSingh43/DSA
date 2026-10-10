@@ -1,4 +1,4 @@
-import java.util.*; 
+import java.util.*;  
 
 class RemoveAtIndex { 
     public static void remIndex(Queue<Integer> q, int idx) {
