@@ -7,7 +7,7 @@ class RemoveAtIndex {
         for (int i=0; i<idx; i++) { 
             q.add(q.remove());
         }
-        q.remove();
+        q.remove(); 
         for(int i=0; i<n-idx-1; i++){
             q.add(q.remove());
         }
