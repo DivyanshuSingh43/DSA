@@ -4,7 +4,7 @@ class RemoveAtIndex {
     public static void remIndex(Queue<Integer> q, int idx) {
         int n = q.size();
 
-        for (int i=0; i<idx; i++) {
+        for (int i=0; i<idx; i++) { 
             q.add(q.remove());
         }
         q.remove();
