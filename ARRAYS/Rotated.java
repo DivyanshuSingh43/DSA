@@ -3,7 +3,7 @@ class Rotated {
     
     static void rotateArr(int[] arr, int d) {
         int n = arr.length;
-
+ 
         d %= n;
           
         int[] temp = new int[n];
